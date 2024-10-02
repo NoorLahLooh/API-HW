@@ -1,0 +1,34 @@
+
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.container {
+    margin: auto;
+    width: 50%;
+}
+.count{
+    background-color: darkolivegreen;
+    color: rgb(238, 238, 172);
+    text-align: center;
+    border: 5px double rgb(22, 35, 1);;
+}
+.pizza{
+    
+    color: darkolivegreen;
+    text-align: center;
+   
+}
+.row img{
+    border: 4px double darkolivegreen;
+    width: 100%;
+    
+}
+body{
+    border: 4px double darkolivegreen;
+    background-color: rgb(238, 238, 172);
+}
